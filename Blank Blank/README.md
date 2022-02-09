@@ -9,4 +9,4 @@ Let me know if you want to see a dark version of this.
 ---
 
 On a side note...
-This is the template that I will be using, or starting with, whenever I create a new template.
+This is the template that I will be using, or starting with, whenever I create a new single page theme.
