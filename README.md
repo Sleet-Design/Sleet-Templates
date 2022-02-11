@@ -8,6 +8,9 @@ Some templates and themes and their descriptions...
 
 ### Blank Templates:
 
+These would be a good place to start to see a blank basic template.
+From these I create some amazing themes.
+
 - [Blank Blank]
 
 Nothing is just blank. This is a template with just some starter code and files, but nothing else.
@@ -15,10 +18,6 @@ Nothing is just blank. This is a template with just some starter code and files,
 - Multi Page Blank
 
 A blank template for creating a multi page website.
-
-- Dark page blank
-
-Because I know dark mode is so popular. And more style than this and it wouldn't be blank.
 
 ---
 
