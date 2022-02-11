@@ -9,5 +9,5 @@ This is the template that I will be using, or starting with, whenever I create a
 Here is a layout of the files and folders:
 
 - [index.html](/Multi-Page-Blank/index.html)
-- [CSS](/Multi-Page-Blank/css/)
- - [st]
+- [/css/](/Multi-Page-Blank/css/)
+ - [/js/]/Multi-Page-Blank/js/
