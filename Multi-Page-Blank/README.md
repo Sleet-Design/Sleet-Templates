@@ -19,6 +19,7 @@ Here is a layout of the files and folders:
   - [/js/](/Multi-Page-Blank/js/) - here you find your js files.
     - [script.js](/Multi-Page-Blank/js/script.js)
   - [/img/](/Multi-Page-Blank/img/) - here you find your imgages.
+  - [/pages/](/Multi-Page-Blank/pages/) - I almost forgot these, but they are the most important!
 
 That is about it.
 You can download this folder to give you a head start creating your next multi-page website.
