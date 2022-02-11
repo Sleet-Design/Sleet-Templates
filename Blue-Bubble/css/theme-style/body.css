@@ -20,6 +20,9 @@ h1, h2, h3 {
 img {
     max-width: 100%; /* This is really helpful if I put my img in a div and I don't want them streaching outside that div */
 }
+.round-img {
+    border-radius: 50%;
+}
 
 /* Main Layout */
 
