@@ -6,7 +6,7 @@ Some templates and themes and their descriptions...
 
 ---
 
-### Blank Templates:
+## Blank Templates
 
 These would be a good place to start to see a blank basic template.
 From these I create some amazing themes.
@@ -18,16 +18,19 @@ Nothing is just blank. This is a template with just some starter code and files,
 - [Multi Page Blank](/Multi-Page-Blank/)
 
 A blank template for creating a multi page website.
+(You would not belive how many hours it took me to make this!)
 
 ---
 
-### One page themes:
+## Beautiful Themes
+
+### One page themes
 
 - [Flash Sale](/Flash-Sale/)
 
 This is a template with a colorful header and some changing color animations.
 
-### Multi-page themes:
+### Multi-page themes
 
 - [Blue Bubble](/Blue-Bubble/)
 
