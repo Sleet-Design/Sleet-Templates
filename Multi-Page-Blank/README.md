@@ -10,4 +10,4 @@ Here is a layout of the files and folders:
 
 - [index.html](/Multi-Page-Blank/index.html)
 - [/css/](/Multi-Page-Blank/css/)
- - [/js/]/Multi-Page-Blank/js/
+ - [/js/](/Multi-Page-Blank/js/)
