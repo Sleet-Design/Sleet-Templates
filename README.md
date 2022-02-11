@@ -11,7 +11,7 @@ Some templates and themes and their descriptions...
 These would be a good place to start to see a blank basic template.
 From these I create some amazing themes.
 
-- [Blank Blank]
+- [Blank Blank](/Blank Blank/)
 
 Nothing is just blank. This is a template with just some starter code and files, but nothing else.
 
