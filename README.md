@@ -23,13 +23,13 @@ A blank template for creating a multi page website.
 
 ### One page themes:
 
-- Flash Sale
+- [Flash Sale](/Flash-Sale/)
 
 This is a template with a colorful header and some changing color animations.
 
 ### Multi-page themes:
 
-- Blue Bubble
+- [Blue Bubble](/Blue-Bubble/)
 
 I named this blue bubble, because of the rounded semi-transparent fixed header.
 
