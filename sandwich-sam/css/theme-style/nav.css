@@ -1,0 +1,46 @@
+nav {
+    position: fixed;
+    top: 1%;
+    left: 2%;
+    right: 2%;
+    border: 1px solid blue;
+    border-radius: 50px;
+    background-color: rgba(255, 255, 255, 0.77);
+    /* width: 90%; */
+    padding: 20px;z-index: 1;}
+
+nav h3 {
+    /* position: absolute; */
+    /* left: 20px; */
+    float: left;
+    font-size: 20px;
+
+    margin: 0px;
+}
+
+nav a {
+    color: blue;
+    font-family: 'Rubik', sans-serif;
+    text-decoration: none;
+    border: 1px solid blue;
+    border-radius: 20px;
+    padding: 5px;
+    margin: 1px;
+}
+nav a:hover {
+    background-color: lightgoldenrodyellow;
+    border: 1px solid green;
+}
+
+nav div {
+    float: right;
+}
+
+/* nav img {
+    width: 50px;
+    margin: 20px;
+} */
+
+/* a {
+    
+} */
