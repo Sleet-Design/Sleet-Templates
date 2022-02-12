@@ -1,46 +1,85 @@
-nav {
+nav img {
+float: left;
+clear: both;
+/* width: 50%; */
+}
+
+
+.nav {
+    display: none;
+
+    background-color: rgb(255, 99, 99);
     position: fixed;
-    top: 1%;
-    left: 2%;
-    right: 2%;
-    border: 1px solid blue;
-    border-radius: 50px;
-    background-color: rgba(255, 255, 255, 0.77);
-    /* width: 90%; */
-    padding: 20px;z-index: 1;}
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 50px;
 
-nav h3 {
-    /* position: absolute; */
-    /* left: 20px; */
-    float: left;
-    font-size: 20px;
 
-    margin: 0px;
+    min-width: 20%;
+
+    z-index: 1;
+
+    overflow: scroll;
 }
 
 nav a {
     color: blue;
-    font-family: 'Rubik', sans-serif;
     text-decoration: none;
-    border: 1px solid blue;
-    border-radius: 20px;
+    float: left;
+    clear: both;
+    background-color: tan;
     padding: 5px;
-    margin: 1px;
+    margin: 5px;
+    border-radius: 20px;
+
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+
+    min-width: 80%;
+    width: 100%;
 }
+
 nav a:hover {
     background-color: lightgoldenrodyellow;
-    border: 1px solid green;
 }
 
-nav div {
-    float: right;
-}
 
-/* nav img {
-    width: 50px;
-    margin: 20px;
-} */
+/* From https://www.w3schools.com/howto/howto_css_menu_icon.asp */
 
-/* a {
-    
-} */
+
+nav .container {
+    display: inline-block;
+    cursor: pointer;
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 2;
+  }
+  
+  .bar1, .bar2, .bar3 {
+    width: 35px;
+    height: 5px;
+    background-color: #333;
+    margin: 6px 0;
+    transition: 0.4s;
+  }
+  
+  /* Rotate first bar */
+  .change .bar1 {
+    -webkit-transform: rotate(-45deg) translate(-9px, 6px) ;
+    transform: rotate(-45deg) translate(-9px, 6px) ;
+  }
+  
+  /* Fade out the second bar */
+  .change .bar2 {
+    opacity: 0;
+  }
+  
+  /* Rotate last bar */
+  .change .bar3 {
+    -webkit-transform: rotate(45deg) translate(-8px, -8px) ;
+    transform: rotate(45deg) translate(-8px, -8px) ;
+  }
