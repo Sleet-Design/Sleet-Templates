@@ -19,3 +19,43 @@ h1, h2, h3, h4, h5, h6 {
 img {
     max-width: 100%; /* This is really helpful if I put my img in a div and I don't want them streaching outside that div */
 }
+
+/* Main Layout */
+
+/* article {
+ 
+} */
+
+section:nth-of-type(odd) {
+    background-color: yellow;
+    color: blue;
+    position: relative;
+    left: 0px;
+    right: 0px;
+    min-height: 20vh;
+
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    text-align: center;
+    /* position: relative; */
+
+    padding: 20%; /* To make text center */
+}
+
+section:nth-of-type(even) {
+    background-color: blue;
+    color: white;
+    position: relative;
+    left: 0px;
+    right: 0px;
+    min-height: 20vh;
+
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    text-align: center;
+    /* position: relative; */
+
+    padding: 20%; /* To make text center */
+}
