@@ -1,3 +1,21 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Shrikhand&display=swap'); */
+/* font-family: 'Shrikhand', cursive; */
+
+body {
+    background-color: yellow;
+
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    margin: 0px;
+    padding: 0px;
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Shrikhand', cursive;
+}
+
 img {
     max-width: 100%; /* This is really helpful if I put my img in a div and I don't want them streaching outside that div */
 }
